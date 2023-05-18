@@ -1,3 +1,3 @@
 # Week11-GD
 
-Upade on remote
+Update on remote
